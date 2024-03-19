@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-#### Tools
+#### Languages
 
 [![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java)
+
+#### Learning
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
+
 <!--
 **Johnson1255/Johnson1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
