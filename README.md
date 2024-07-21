@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!+Hello!;I'm+Johnson%2C+a+Software+Engineering+Student;I'm+Passionate+About+AI+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=7BF2F7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!+Hello!;I'm+Johnson%2C+a+Man+With+Just+a+Keyboard%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     💼 Software Engineering Student
     💻 Progamming - Passionate About AI
     📩 johnson.chenyu1255@gmail.com
 </pre>
-<br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="40" />
   <br>
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="40" />
