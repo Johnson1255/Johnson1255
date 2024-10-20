@@ -5,6 +5,7 @@
     💼 Software Engineering Student
     💻 Progamming - Passionate About AI
     📩 johnson.chenyu1255@gmail.com
+    🏗️ I'm Working on a Personal Project: <a href="https://github.com/Johnson1255/Ivy-AI">Ivy AI</a>
 </pre>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="40" />
